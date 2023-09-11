@@ -1,7 +1,9 @@
 addR
+
 This is a Python script that uses a simple algorithm to find the best combinations of numbers that add up to a given target number. It also has a graphical user interface that allows you to enter the numbers and the target number and see the results.
 
 Requirements
+
 •  Python 3.x
 
 •  tkinter module (usually comes with Python installation)
@@ -9,6 +11,7 @@ Requirements
 •  itertools module (usually comes with Python installation)
 
 Usage
+
 •  Run the script (python addR.py)
 
 •  Enter the numbers separated by commas in the first input field (e.g. 1,2,3,4,5)
